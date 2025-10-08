@@ -1,0 +1,8 @@
+PID: 34091 START: 1759901203818391808 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20251008T052631Z-P0000852b/repo-20251008T052643Z-P0000852b]
+
+PID: 34091 START: 1759901204009691648 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 34091 END: 1759901204017961728 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 34091 END: 1759901204018392064 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20251008T052631Z-P0000852b/repo-20251008T052643Z-P0000852b]
+
